@@ -1,32 +1,38 @@
 ```text
-██████╗ ██╗   ██╗███████╗███████╗
-██╔══██╗██║   ██║██╔════╝██╔════╝
-██████╔╝██║   ██║███████╗█████╗
-██╔══██╗██║   ██║╚════██║██╔══╝
-██████╔╝╚██████╔╝███████║███████╗
-╚═════╝  ╚═════╝ ╚══════╝╚══════╝
+██╗  ██╗███╗   ███╗ █████╗ ████████╗███████╗
+╚██╗██╔╝████╗ ████║██╔══██╗╚══██╔══╝██╔════╝
+ ╚███╔╝ ██╔████╔██║███████║   ██║   █████╗
+ ██╔██╗ ██║╚██╔╝██║██╔══██║   ██║   ██╔══╝
+██╔╝ ██╗██║ ╚═╝ ██║██║  ██║   ██║   ███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝
+
+               [ X M A T E ]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 BOOT SEQUENCE
-────────────────────────────────────
 
-✓ Identity Loaded
-✓ Knowledge Loaded
-✓ Curiosity Loaded
-✓ Coffee Missing ☕
+[✓] Identity ............. Loaded
+[✓] Network Stack ........ Online
+[✓] Security Modules ..... Active
+[✓] Curiosity Engine ..... Running
+[✓] Sleep Schedule ....... Not Found
 
-SYSTEM STATUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Name     : Syed Md Abu Haider
-Mission  : Build secure systems.
-Current  : Learning every single day.
+USER      :: Syed Md Abu Haider
+ROLE      :: Network & Cybersecurity Engineer
+FOCUS     :: Detection • Infrastructure • Automation
+MISSION   :: Build. Break. Defend.
 
-────────────────────────────────────
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-root@github:~# run
+root@xmate:~$ execute
 
 > BUILD
-> BREAK
-> LEARN
+> ANALYZE
+> EXPLOIT
+> DEFEND
 > REPEAT
 
 █
