@@ -1,7 +1,4 @@
-<div align="center">
-
-<pre>
-
+```text
 ██╗  ██╗███╗   ███╗ █████╗ ████████╗███████╗
 ╚██╗██╔╝████╗ ████║██╔══██╗╚══██╔══╝██╔════╝
  ╚███╔╝ ██╔████╔██║███████║   ██║   █████╗
@@ -9,37 +6,34 @@
 ██╔╝ ██╗██║ ╚═╝ ██║██║  ██║   ██║   ███████╗
 ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝
 
-                 [ X M A T E ]
+               [ X M A T E ]
 
-──────────────────────────────────────────────
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 BOOT SEQUENCE
 
-[✓] Identity ............... Loaded
-[✓] Network Stack .......... Online
-[✓] Security Modules ....... Active
-[✓] Curiosity Engine ....... Running
-[✓] Sleep Schedule ......... Not Found
+[✓] Identity ............. Loaded
+[✓] Network Stack ........ Online
+[✓] Security Modules ..... Active
+[✓] Curiosity Engine ..... Running
+[✓] Sleep Schedule ....... Not Found
 
-──────────────────────────────────────────────
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 USER      :: Syed Md Abu Haider
 ROLE      :: Network & Cybersecurity Engineer
 FOCUS     :: Detection • Infrastructure • Automation
 MISSION   :: Build. Break. Defend.
 
-──────────────────────────────────────────────
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 root@xmate:~$ execute
 
-&gt; BUILD
-&gt; ANALYZE
-&gt; EXPLOIT
-&gt; DEFEND
-&gt; REPEAT
+> BUILD
+> ANALYZE
+> EXPLOIT
+> DEFEND
+> REPEAT
 
 █
-
-</pre>
-
-</div>
+```
