@@ -1,16 +1,34 @@
-## The universe does not allow PERFECTION 👋
+````markdown
+# Syed Md Abu Haider
 
-<!--
-**SyedMdAbuHaider/syedmdabuhaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building secure systems. Breaking insecure ones.
 
-Here are some ideas to get you started:
+Cybersecurity Engineer focused on **Blue Team**, **Network Security**, **Detection Engineering**, and **Security Automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+SOC • SIEM • Threat Detection • Python • Linux • Networking
+````
+
+### Current Focus
+
+* Detection Engineering
+* Security Operations (SOC)
+* ISP & Core Network Infrastructure
+* Python Automation
+* Cloud & Infrastructure Security
+
+---
+
+> "Security isn't about perfection. It's about making attacks economically impossible."
+
+```
+while (true) {
+    learn();
+    build();
+    break();
+    secure();
+}
+```
+
+```
+```
