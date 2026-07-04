@@ -1,24 +1,33 @@
-````markdown
 ```text
-███████╗██╗   ██╗███████╗██████╗ 
-██╔════╝╚██╗ ██╔╝██╔════╝██╔══██╗
-█████╗   ╚████╔╝ █████╗  ██████╔╝
-██╔══╝    ╚██╔╝  ██╔══╝  ██╔══██╗
-███████╗   ██║   ███████╗██║  ██║
-╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+██████╗ ██╗   ██╗███████╗███████╗
+██╔══██╗██║   ██║██╔════╝██╔════╝
+██████╔╝██║   ██║███████╗█████╗
+██╔══██╗██║   ██║╚════██║██╔══╝
+██████╔╝╚██████╔╝███████║███████╗
+╚═════╝  ╚═════╝ ╚══════╝╚══════╝
 
-/* Security is not a product.
-   It's a continuous process. */
+BOOT SEQUENCE
+────────────────────────────────────
 
-[ BUILD ]
-[ LEARN ]
-[ BREAK ]
-[ DEFEND ]
+✓ Identity Loaded
+✓ Knowledge Loaded
+✓ Curiosity Loaded
+✓ Coffee Missing ☕
 
-> Engineering secure systems.
-> Automating repetitive work.
-> Hunting for elegant solutions.
+SYSTEM STATUS
 
-$ git commit -m "never stop improving"
+Name     : Syed Md Abu Haider
+Mission  : Build secure systems.
+Current  : Learning every single day.
+
+────────────────────────────────────
+
+root@github:~# run
+
+> BUILD
+> BREAK
+> LEARN
+> REPEAT
+
+█
 ```
-````
